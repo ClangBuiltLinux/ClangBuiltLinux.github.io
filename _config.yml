@@ -1,1 +1,5 @@
+title: ClangBuiltLinux
+logo: /logo.png
+description: Building the Linux kernel with Clang
+show_downloads: false
 theme: jekyll-theme-minimal
