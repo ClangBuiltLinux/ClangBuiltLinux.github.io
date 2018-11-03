@@ -1,5 +1,7 @@
 ## ClangBuiltLinux
 
+![logo](https://raw.githubusercontent.com/ClangBuiltLinux/ClangBuiltLinux.github.io/logo/logo.png)
+
 ### Usefull links
 
 [![Build Status](https://travis-ci.com/ClangBuiltLinux/continuous-integration.svg?branch=master)](https://travis-ci.com/ClangBuiltLinux/continuous-integration)
