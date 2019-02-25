@@ -4,3 +4,5 @@
 - [Issue tracker](https://github.com/ClangBuiltLinux/linux/issues)
 - [Wiki](https://github.com/ClangBuiltLinux/linux/wiki)
 - [Repos](https://github.com/ClangBuiltLinux)
+- [Mailing List](https://groups.google.com/forum/#!forum/clang-built-linux)
+- `#clangbuiltlinux` on chat.freenode.net
