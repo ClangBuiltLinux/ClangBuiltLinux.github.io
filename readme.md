@@ -5,4 +5,7 @@
 - [Wiki](https://github.com/ClangBuiltLinux/linux/wiki)
 - [Repos](https://github.com/ClangBuiltLinux)
 - [Mailing List](https://groups.google.com/forum/#!forum/clang-built-linux)
-- [IRC] `#clangbuiltlinux` on chat.freenode.net
+- IRC: `#clangbuiltlinux` on chat.freenode.net
+- Bi-weekly video meeting
+  - [Calendar](https://calendar.google.com/calendar/embed?src=google.com_bbf8m6m4n8nq5p2bfjpele0n5s%40group.calendar.google.com)
+  - [Hangouts Meet](https://meet.google.com/yjf-jyqk-iaz)
