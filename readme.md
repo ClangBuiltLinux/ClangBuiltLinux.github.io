@@ -13,3 +13,48 @@
 
 Checkout [info](/2019_02_meetup.md) on our public meetup in Zurich planned for
 February 7-9 2020.
+
+The following architectures are targetable from both LLVM and the Linux kernel
+and are relatively well supported and tested:
+* arm
+* arm64
+* x86
+
+The following architectures are targetable from both LLVM and the Linux kernel
+and are supported and tested in limited configurations:
+* powerpc
+* mips
+
+The following architectures are targetable from both LLVM and the Linux kernel
+but are untested or currently broken:
+* arc
+* hexagon
+* riscv
+* s390
+* sparc
+
+The following architectures are targetable from the Linux kernel but not LLVM:
+* alpha
+* c6x
+* csky ([WIP](https://reviews.llvm.org/D86269))
+* h8300
+* ia64
+* m68k
+* microblaze
+* nds32
+* nios2
+* openrisc
+* parisc
+* sh
+* xtensa
+
+The following architectures are targetable from LLVM but not the Linux kernel:
+* amdgpu
+* avr
+* bpf
+* lanai
+* msp430
+* nvptx
+* ve
+* webassembly
+* xcore
