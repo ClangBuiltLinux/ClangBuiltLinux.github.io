@@ -11,9 +11,6 @@
   - [Calendar](https://calendar.google.com/calendar/embed?src=google.com_bbf8m6m4n8nq5p2bfjpele0n5s%40group.calendar.google.com)
   - [Hangouts Meet](https://meet.google.com/yjf-jyqk-iaz)
 
-Checkout [info](/2019_02_meetup.md) on our public meetup in Zurich planned for
-February 7-9 2020.
-
 The following architectures are targetable from both LLVM and the Linux kernel
 and are relatively well supported and tested:
 * arm
