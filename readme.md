@@ -1,6 +1,7 @@
 ## Useful links
 
-[![Build Status](https://travis-ci.com/ClangBuiltLinux/continuous-integration.svg?branch=master)](https://travis-ci.com/ClangBuiltLinux/continuous-integration)
+[![Build Status next](https://github.com/clangbuiltlinux/continuous-integration2/workflows/next/badge.svg)](https://github.com/clangbuiltlinux/continuous-integration2/actions?query=workflow%3A"next")
+[![Build Status mainline](https://github.com/clangbuiltlinux/continuous-integration2/workflows/mainline/badge.svg)](https://github.com/clangbuiltlinux/continuous-integration2/actions?query=workflow%3A"mainline")
 - [Official Kernel Docs](https://www.kernel.org/doc/html/latest/kbuild/llvm.html)
 - [Issue tracker](https://github.com/ClangBuiltLinux/linux/issues)
 - [Wiki](https://github.com/ClangBuiltLinux/linux/wiki)
