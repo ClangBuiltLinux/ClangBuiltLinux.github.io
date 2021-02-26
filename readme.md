@@ -37,24 +37,24 @@ and are relatively well supported and tested:
 
 The following architectures are targetable from both LLVM and the Linux kernel
 and are supported and tested in limited configurations:
-* powerpc
 * mips
+* powerpc
+* riscv
+* s390
 
 The following architectures are targetable from both LLVM and the Linux kernel
 but are untested or currently broken:
 * arc
 * hexagon
-* riscv
-* s390
 * sparc
 
 The following architectures are targetable from the Linux kernel but not LLVM:
 * alpha
 * c6x
-* csky ([WIP](https://reviews.llvm.org/D86269))
+* csky ([WIP](https://reviews.llvm.org/D93798))
 * h8300
 * ia64
-* m68k
+* m68k ([WIP](https://reviews.llvm.org/D95315))
 * microblaze
 * nds32
 * nios2
