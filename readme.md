@@ -14,6 +14,9 @@
 [![Build Status android-4.19](https://github.com/clangbuiltlinux/continuous-integration2/workflows/android-4.19/badge.svg)](https://github.com/clangbuiltlinux/continuous-integration2/actions?query=workflow%3Aandroid-4.19)
 [![Build Status android-4.14](https://github.com/clangbuiltlinux/continuous-integration2/workflows/android-4.14/badge.svg)](https://github.com/clangbuiltlinux/continuous-integration2/actions?query=workflow%3Aandroid-4.14)
 [![Build Status android-4.9](https://github.com/clangbuiltlinux/continuous-integration2/workflows/android-4.9/badge.svg)](https://github.com/clangbuiltlinux/continuous-integration2/actions?query=workflow%3Aandroid-4.9)
+[![Build Status lto-cfi](https://github.com/clangbuiltlinux/continuous-integration2/workflows/lto-cfi/badge.svg)](https://github.com/clangbuiltlinux/continuous-integration2/actions?query=workflow%3Alto-cfi)
+[![Build Status lto-cfi-tip](https://github.com/clangbuiltlinux/continuous-integration2/workflows/lto-cfi-tip/badge.svg)](https://github.com/clangbuiltlinux/continuous-integration2/actions?query=workflow%3Alto-cfi-tip)
+[![Build Status tip](https://github.com/clangbuiltlinux/continuous-integration2/workflows/tip/badge.svg)](https://github.com/clangbuiltlinux/continuous-integration2/actions?query=workflow%3Atip)
 
 - [Official Kernel Docs](https://www.kernel.org/doc/html/latest/kbuild/llvm.html)
 - [Issue tracker](https://github.com/ClangBuiltLinux/linux/issues)
@@ -34,24 +37,24 @@ and are relatively well supported and tested:
 
 The following architectures are targetable from both LLVM and the Linux kernel
 and are supported and tested in limited configurations:
-* powerpc
 * mips
+* powerpc
+* riscv
+* s390
 
 The following architectures are targetable from both LLVM and the Linux kernel
 but are untested or currently broken:
 * arc
 * hexagon
-* riscv
-* s390
 * sparc
 
 The following architectures are targetable from the Linux kernel but not LLVM:
 * alpha
 * c6x
-* csky ([WIP](https://reviews.llvm.org/D86269))
+* csky ([WIP](https://reviews.llvm.org/D93798))
 * h8300
 * ia64
-* m68k
+* m68k ([WIP](https://reviews.llvm.org/D95315))
 * microblaze
 * nds32
 * nios2
