@@ -26,7 +26,7 @@
 - [Wiki](https://github.com/ClangBuiltLinux/linux/wiki)
 - [Repos](https://github.com/ClangBuiltLinux)
 - Mailing List: `clang-built-linux@googlegroups.com` ([archive](https://groups.google.com/forum/#!forum/clang-built-linux))
-- IRC: `#clangbuiltlinux` on [irc.libera.chat](https://libera.chat/guides/clients)
+- IRC: `#clangbuiltlinux` on [irc.libera.chat](https://libera.chat/guides/connect) ([web client](https://web.libera.chat/?channel=#clangbuiltlinux))
 - Telegram: [@ClangBuiltLinux](https://t.me/ClangBuiltLinux)
 - Discord: `#clang-built-linux` in the [LLVM server](https://discord.gg/xS7Z362)
 - Bi-weekly video meeting
