@@ -2,6 +2,7 @@
 
 [![Build Status next](https://github.com/clangbuiltlinux/continuous-integration2/workflows/next/badge.svg)](https://github.com/clangbuiltlinux/continuous-integration2/actions?query=workflow%3A"next")
 [![Build Status mainline](https://github.com/clangbuiltlinux/continuous-integration2/workflows/mainline/badge.svg)](https://github.com/clangbuiltlinux/continuous-integration2/actions?query=workflow%3A"mainline")
+[![Build Status 5.15](https://github.com/clangbuiltlinux/continuous-integration2/workflows/5.15/badge.svg)](https://github.com/clangbuiltlinux/continuous-integration2/actions?query=workflow%3A5.15)
 [![Build Status 5.10](https://github.com/clangbuiltlinux/continuous-integration2/workflows/5.10/badge.svg)](https://github.com/clangbuiltlinux/continuous-integration2/actions?query=workflow%3A5.10)
 [![Build Status 5.4](https://github.com/clangbuiltlinux/continuous-integration2/workflows/5.4/badge.svg)](https://github.com/clangbuiltlinux/continuous-integration2/actions?query=workflow%3A5.4)
 [![Build Status 4.19](https://github.com/clangbuiltlinux/continuous-integration2/workflows/4.19/badge.svg)](https://github.com/clangbuiltlinux/continuous-integration2/actions?query=workflow%3A4.19)
