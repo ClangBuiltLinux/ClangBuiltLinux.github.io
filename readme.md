@@ -43,7 +43,8 @@ and are relatively well supported and tested:
 * x86
 
 The following architectures are targetable from both LLVM and the Linux kernel
-and are supported and tested in limited configurations:
+and are known to work in specific/limited configurations and supported on a
+best-effort basis:
 * mips
 * powerpc
 * riscv
