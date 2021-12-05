@@ -38,6 +38,8 @@ The following architectures are targetable from both LLVM and the Linux kernel
 and are relatively well supported and tested:
 * arm
 * arm64
+* hexagon
+* s390
 * x86
 
 The following architectures are targetable from both LLVM and the Linux kernel
@@ -45,12 +47,10 @@ and are supported and tested in limited configurations:
 * mips
 * powerpc
 * riscv
-* s390
 
 The following architectures are targetable from both LLVM and the Linux kernel
 but are untested or currently broken:
 * arc
-* hexagon
 * sparc
 
 The following architectures are targetable from the Linux kernel but not LLVM:
