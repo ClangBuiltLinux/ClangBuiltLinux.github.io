@@ -16,8 +16,6 @@
 [![Build Status android-4.19](https://github.com/clangbuiltlinux/continuous-integration2/workflows/android-4.19/badge.svg)](https://github.com/clangbuiltlinux/continuous-integration2/actions?query=workflow%3Aandroid-4.19)
 [![Build Status android-4.14](https://github.com/clangbuiltlinux/continuous-integration2/workflows/android-4.14/badge.svg)](https://github.com/clangbuiltlinux/continuous-integration2/actions?query=workflow%3Aandroid-4.14)
 [![Build Status android-4.9](https://github.com/clangbuiltlinux/continuous-integration2/workflows/android-4.9/badge.svg)](https://github.com/clangbuiltlinux/continuous-integration2/actions?query=workflow%3Aandroid-4.9)
-[![Build Status lto-cfi](https://github.com/clangbuiltlinux/continuous-integration2/workflows/lto-cfi/badge.svg)](https://github.com/clangbuiltlinux/continuous-integration2/actions?query=workflow%3Alto-cfi)
-[![Build Status lto-cfi-tip](https://github.com/clangbuiltlinux/continuous-integration2/workflows/lto-cfi-tip/badge.svg)](https://github.com/clangbuiltlinux/continuous-integration2/actions?query=workflow%3Alto-cfi-tip)
 [![Build Status tip](https://github.com/clangbuiltlinux/continuous-integration2/workflows/tip/badge.svg)](https://github.com/clangbuiltlinux/continuous-integration2/actions?query=workflow%3Atip)
 [![Build Status arm64](https://github.com/clangbuiltlinux/continuous-integration2/workflows/arm64/badge.svg)](https://github.com/clangbuiltlinux/continuous-integration2/actions?query=workflow%3Aarm64)
 [![Build Status arm64-fixes](https://github.com/clangbuiltlinux/continuous-integration2/workflows/arm64-fixes/badge.svg)](https://github.com/clangbuiltlinux/continuous-integration2/actions?query=workflow%3Aarm64-fixes)
