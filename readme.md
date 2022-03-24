@@ -133,7 +133,6 @@ The following architectures are targetable from the Linux kernel but not LLVM:
 * h8300
 * ia64
 * microblaze
-* nds32
 * nios2
 * openrisc
 * parisc
