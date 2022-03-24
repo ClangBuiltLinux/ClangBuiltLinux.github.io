@@ -118,6 +118,7 @@ best-effort basis:
 * mips
 * powerpc
 * riscv
+* um (usermode)
 
 The following architectures are targetable from both LLVM and the Linux kernel
 but are untested or currently broken:
