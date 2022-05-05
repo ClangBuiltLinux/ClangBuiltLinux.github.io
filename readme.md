@@ -1,5 +1,8 @@
 ## Useful links
 
+We're having our third meetup Sept 10-11 2022 in Dublin, Ireland. Please
+see [our page](https://clangbuiltlinux.github.io/cbl-meetup/) for more info!
+
 [![4.14-clang-13 build status](https://github.com/clangbuiltlinux/continuous-integration2/actions/workflows/4.14-clang-13.yml/badge.svg)](https://github.com/clangbuiltlinux/continuous-integration2/actions/workflows/4.14-clang-13.yml)
 [![4.14-clang-14 build status](https://github.com/clangbuiltlinux/continuous-integration2/actions/workflows/4.14-clang-14.yml/badge.svg)](https://github.com/clangbuiltlinux/continuous-integration2/actions/workflows/4.14-clang-14.yml)
 [![4.14-clang-15 build status](https://github.com/clangbuiltlinux/continuous-integration2/actions/workflows/4.14-clang-15.yml/badge.svg)](https://github.com/clangbuiltlinux/continuous-integration2/actions/workflows/4.14-clang-15.yml)
