@@ -1,0 +1,21 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+.wrapper {
+	width: 98%;
+}
+
+header {
+	width: 20%;
+}
+
+section {
+	width: 80%;
+}
+
+footer {
+	display: none;
+	visibility: hidden;
+}
