@@ -1,3 +1,7 @@
+## Meetups
+- Nov 11, 2022 - [4th Annual ClangBuiltLinux Meetup](/meetup.md) - Richmond, VA
+- Nov 13-15, 2022 - [Toolchains Track](https://lpc.events/event/17/sessions/156/) @ [Linux Plumbers Conf 2023](https://lpc.events/event/17/) - Richmond, VA
+
 ## Build status
 
 |     | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;clang&#8209;17 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;clang&#8209;16 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;clang&#8209;15 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;clang&#8209;14 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;clang&#8209;13 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;clang&#8209;12 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;clang&#8209;11 | clang&#8209;android |
