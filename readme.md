@@ -1,8 +1,13 @@
 ## Meetups
-- Nov 11, 2022 - [4th Annual ClangBuiltLinux Meetup](/meetup.md) - Richmond, VA
-- Nov 13-15, 2022 - [Toolchains Track](https://lpc.events/event/17/sessions/156/) @ [Linux Plumbers Conf 2023](https://lpc.events/event/17/) - Richmond, VA
+- ~Nov 11, 2022 - [4th Annual ClangBuiltLinux Meetup](/meetup.md) - Richmond, VA~
+- ~Nov 13-15, 2022 - [Toolchains Track](https://lpc.events/event/17/sessions/156/) @ [Linux Plumbers Conf 2023](https://lpc.events/event/17/) - Richmond, VA~
 
-## Build status
+## Build Status
+<details>
+<summary>
+<b>CI Matrix</b>
+</summary>
+<br>
 
 |     | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;clang&#8209;18 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;clang&#8209;17 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;clang&#8209;16 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;clang&#8209;15 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;clang&#8209;14 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;clang&#8209;13 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;clang&#8209;12 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;clang&#8209;11 | clang&#8209;android |
 | ---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
@@ -31,6 +36,7 @@
 | chromeos&#8209;5.10 | [![chromeos-5.10-clang-18 build status](https://github.com/clangbuiltlinux/continuous-integration2/actions/workflows/chromeos-5.10-clang-18.yml/badge.svg)](https://github.com/clangbuiltlinux/continuous-integration2/actions/workflows/chromeos-5.10-clang-18.yml) | [![chromeos-5.10-clang-17 build status](https://github.com/clangbuiltlinux/continuous-integration2/actions/workflows/chromeos-5.10-clang-17.yml/badge.svg)](https://github.com/clangbuiltlinux/continuous-integration2/actions/workflows/chromeos-5.10-clang-17.yml) | [![chromeos-5.10-clang-16 build status](https://github.com/clangbuiltlinux/continuous-integration2/actions/workflows/chromeos-5.10-clang-16.yml/badge.svg)](https://github.com/clangbuiltlinux/continuous-integration2/actions/workflows/chromeos-5.10-clang-16.yml) | [![chromeos-5.10-clang-15 build status](https://github.com/clangbuiltlinux/continuous-integration2/actions/workflows/chromeos-5.10-clang-15.yml/badge.svg)](https://github.com/clangbuiltlinux/continuous-integration2/actions/workflows/chromeos-5.10-clang-15.yml) | [![chromeos-5.10-clang-14 build status](https://github.com/clangbuiltlinux/continuous-integration2/actions/workflows/chromeos-5.10-clang-14.yml/badge.svg)](https://github.com/clangbuiltlinux/continuous-integration2/actions/workflows/chromeos-5.10-clang-14.yml) | [![chromeos-5.10-clang-13 build status](https://github.com/clangbuiltlinux/continuous-integration2/actions/workflows/chromeos-5.10-clang-13.yml/badge.svg)](https://github.com/clangbuiltlinux/continuous-integration2/actions/workflows/chromeos-5.10-clang-13.yml) | [![chromeos-5.10-clang-12 build status](https://github.com/clangbuiltlinux/continuous-integration2/actions/workflows/chromeos-5.10-clang-12.yml/badge.svg)](https://github.com/clangbuiltlinux/continuous-integration2/actions/workflows/chromeos-5.10-clang-12.yml) |     |     |
 
 [![Check clang version](https://github.com/clangbuiltlinux/continuous-integration2/actions/workflows/clang-version.yml/badge.svg)](https://github.com/clangbuiltlinux/continuous-integration2/actions/workflows/clang-version.yml)
+</details>
 
 ## Useful links
 
@@ -47,7 +53,9 @@
 - Discord: `#clang-built-linux` in the [LLVM server](https://discord.gg/xS7Z362)
 - Bi-weekly video meeting
   - [Calendar](https://calendar.google.com/calendar/embed?src=google.com_bbf8m6m4n8nq5p2bfjpele0n5s%40group.calendar.google.com)
-  - [Hangouts Meet](https://meet.google.com/yjf-jyqk-iaz)
+  - [Google Meet](https://meet.google.com/yjf-jyqk-iaz)
+
+## Architecture Support
 
 The following architectures are targetable from both LLVM and the Linux kernel
 and are relatively well supported and tested:
