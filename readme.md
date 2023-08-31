@@ -40,8 +40,8 @@
 - [Repos](https://github.com/ClangBuiltLinux)
 - Mailing List: `llvm@lists.linux.dev`
   - [Subscribe](mailto:llvm+subscribe@lists.linux.dev) (send a blank email to the address and follow the instructions you receive)
-  - [Current archive](https://lore.kernel.org/llvm/)
-  - [Old archive](https://groups.google.com/g/clang-built-linux)
+  - [Current mailing list archive](https://lore.kernel.org/llvm/)
+  - Old Archive (Deprecated) - [Google Groups](https://groups.google.com/g/clang-built-linux) - [Lore](https://lore.kernel.org/all/?q=c:clang-built-linux@googlegroups.com+OR+t:clang-built-linux@googlegroups.com)
 - IRC: `#clangbuiltlinux` on [irc.libera.chat](https://libera.chat/guides/connect) ([web client](https://web.libera.chat/?channel=#clangbuiltlinux))
 - Telegram: [@ClangBuiltLinux](https://t.me/ClangBuiltLinux)
 - Discord: `#clang-built-linux` in the [LLVM server](https://discord.gg/xS7Z362)
