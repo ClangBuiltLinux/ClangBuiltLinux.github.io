@@ -74,8 +74,6 @@ but are untested or currently broken:
 
 The following architectures are targetable from the Linux kernel but not LLVM:
 * alpha
-* c6x
-* h8300
 * microblaze
 * nios2
 * openrisc
