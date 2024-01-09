@@ -48,7 +48,9 @@
 - Discord: `#clang-built-linux` in the [LLVM server](https://discord.gg/xS7Z362)
 - Bi-weekly video meeting
   - [Calendar](https://calendar.google.com/calendar/embed?src=google.com_bbf8m6m4n8nq5p2bfjpele0n5s%40group.calendar.google.com)
-  - [Hangouts Meet](https://meet.google.com/yjf-jyqk-iaz)
+  - [Google Meet](https://meet.google.com/yjf-jyqk-iaz)
+
+## Architecture Support
 
 The following architectures are targetable from both LLVM and the Linux kernel
 and are relatively well supported and tested:
