@@ -96,3 +96,6 @@ The following architectures are targetable from LLVM but not the Linux kernel:
 * ve
 * webassembly
 * xcore
+
+> [!NOTE]
+> s390 is not fully supported by ld.lld and as such [requires special care to build properly](https://github.com/ClangBuiltLinux/linux/issues/1524)
