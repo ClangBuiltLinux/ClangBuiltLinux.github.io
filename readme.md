@@ -49,8 +49,8 @@
 - Telegram: [@ClangBuiltLinux](https://t.me/ClangBuiltLinux)
 - Discord: `#clang-built-linux` in the [LLVM server](https://discord.gg/xS7Z362)
 - Bi-weekly video meeting
-  - [Calendar](https://calendar.google.com/calendar/embed?src=google.com_bbf8m6m4n8nq5p2bfjpele0n5s%40group.calendar.google.com)
-  - [Google Meet](https://meet.google.com/yjf-jyqk-iaz)
+  - [Calendar](https://calendar.google.com/calendar/embed?src=47005f8f50f21da6133d7239f3cb93d1624d2e1949963ea75dd86d5f2d5721e0%40group.calendar.google.com)
+  - [Google Meet](https://meet.google.com/wrr-mxkn-hdo)
 
 ## Architecture Support
 
